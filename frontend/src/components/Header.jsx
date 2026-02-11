@@ -20,7 +20,7 @@ const Header = ({ user, onLogout, notifications }) => {
             </div>
             <div>
               <h1 className="text-white text-2xl font-bold tracking-tight">
-                Student Enrollment
+                StudentPro
               </h1>
               <p className="text-blue-100 text-sm font-light">
                 Modern Student Course Enrollment Management Platform
