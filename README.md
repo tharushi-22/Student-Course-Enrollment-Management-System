@@ -40,7 +40,7 @@ This system allows administrators to create, view, update, delete, search, and f
 - React.js
 - Vite
 - Axios
-- Tailwind CSS / Bootstrap
+- Tailwind CSS
 - React Hooks
 - Responsive Design
 
