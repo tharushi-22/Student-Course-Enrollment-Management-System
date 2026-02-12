@@ -110,7 +110,7 @@ const SearchFilter = ({
             className="w-full lg:w-auto flex items-center justify-center gap-2 px-4 py-2.5 border border-blue-200 bg-blue-50 text-blue-700 rounded-lg hover:bg-blue-100 hover:border-blue-300 active:bg-blue-200 transition-colors font-medium shadow-sm"
           >
             <FaTimes className="text-sm" />
-            Clear Filters
+            Clear Filter
           </button>
         </div>
       </div>

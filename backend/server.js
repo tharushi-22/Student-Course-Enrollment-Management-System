@@ -30,7 +30,7 @@ app.use('/api/auth', require('./routes/authRoutes'));
 app.get('/api/health', (req, res) => {
   res.status(200).json({
     success: true,
-    message: 'Server is running',
+    message: 'Server is running!',
     timestamp: new Date().toISOString()
   });
 });
