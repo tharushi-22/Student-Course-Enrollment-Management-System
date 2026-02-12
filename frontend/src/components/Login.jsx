@@ -84,7 +84,7 @@ const Login = ({ onLogin, onRegister }) => {
       </div>
 
       <div className="max-w-4xl w-full grid md:grid-cols-2 gap-8 backdrop-blur-sm bg-white/10 rounded-3xl shadow-2xl overflow-hidden">
-        {/* Left Side - Hero */}
+        {/* Hero */}
         <div className="hidden md:flex flex-col justify-center p-12 bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
           <div className="mb-8">
             <div className="inline-flex items-center justify-center w-16 h-16 bg-white/20 rounded-full mb-6">
@@ -114,7 +114,7 @@ const Login = ({ onLogin, onRegister }) => {
           </div>
         </div>
 
-        {/* Right Side - Form */}
+        {/* Form */}
         <div className="p-8 md:p-12 bg-white">
           {/* Toggle Tabs */}
           <div className="flex mb-8 border-b">
